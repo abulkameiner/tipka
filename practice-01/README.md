@@ -6,7 +6,7 @@
 
 | Имя | Раъманов А.А. |
 | Группа | ЭФБО-16-25 |
-| Вариант | 6 (`totalTasks = 18`, `completedTasks = 6`, `dailyLimit = 5`) |
+(`totalTasks = 18`, `completedTasks = 6`, `dailyLimit = 5`) |
 
 ## 2. Окружение
 
